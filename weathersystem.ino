@@ -15,8 +15,8 @@ LiquidCrystal_I2C lcd(0x3F, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);
 #define PIN_TX    9
 #define PIN_RX    8
 #define BAUDRATE  9600
-#define PHONE_NUMBER "+639265219841"
-#define PHONE_NUMBER1 "+639758977920"
+#define PHONE_NUMBER "Insert Phone Number"
+#define PHONE_NUMBER1 "Insert Phone Number"
 #define MESSAGE1  "Hi I'm GUKUMATZ, there's no chance of rain for the next 6hours. Enjoy your day! :)"
 #define MESSAGE2 "Hi I'm GUKUMATZ, there's a chance of rain for the next 6hours. So you better prepare for rain. :)"
 #define MESSAGE3 "Hi I'm GUKUMATZ, it's raining!"
